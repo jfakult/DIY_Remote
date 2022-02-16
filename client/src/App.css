@@ -1,0 +1,246 @@
+/* COLOR PALETTE */
+/* CSS HEX */
+:root {
+	--blue: #2e344e;
+	--lightblue: #40499a;
+	--darkblue: #272c5a;
+	--yellow: #f1c255ff;
+	--grey: #7f9183ff;
+	--red: #cc3e40ff;
+	--purple: #9c528bff;
+}
+
+body {
+	background: var(--blue);
+	text-align: center;
+}
+
+#title {
+	color: white;
+}
+
+.button-panel {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	/*padding: 4vw;*/
+}
+
+.button {
+	display: flex;
+	flex-direction: column;
+	width: 36vw;
+	transition: width .6s, margin-bottom 1.2s;
+	margin-bottom: 5vh;
+}
+
+.button:focus {
+	outline: none;
+}
+
+.inactive .button-image {
+	filter: grayscale(.75)
+}
+
+.expanded {
+	width: 70vw;
+	margin-left: 15vw;
+	margin-right: 15vw;
+	margin-bottom: 8vh;
+}
+
+.expanded > .button-text {
+	font-size: 180%;
+}
+
+.expanded > div {
+	font-size: 120%;
+}
+
+@media screen and (orientation: landscape) {
+	.button {
+		width: 27vw
+	}
+
+	.expanded {
+		width: 36vw;
+		margin-left: 32vw;
+		margin-right: 32vw;
+		margin-bottom: 12vh;
+	}
+
+}
+
+.button-image-wrapper {
+	padding: 4vw;
+	border: 6px solid var(--lightblue);
+	border-radius: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 66.6%;
+}
+
+.button-image {
+/*filter: grayscale(3) sepia(1) hue-rotate(115deg);
+	filter: grayscale(1) sepia(1) saturate(100000) brightness(1) hue-rotate(180deg);*/
+	width: 100%;
+	/* border-radius: 100% */
+}
+
+.button-text {
+	color: white;
+	font-size: 120%;
+}
+
+.info-wrapper {
+	color: white;
+}
+
+.info-wrapper > div {
+	font-size: 110%;
+}
+
+.info-wrapper > span {
+	font-size: 80%;
+	color: #ccc;
+	margin-left: 6px;
+	margin-right: 6px;
+}
+
+.button-description {
+	display: inline;
+}
+
+.button-location {
+	display: inline-block;
+}
+
+.button-data {
+	transition: filter 0.5s;
+}
+
+.App {
+	text-align: center;
+}
+
+/*
+.App-header {
+	background-color: #282c34;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
+}
+
+.App-link {
+	color: #61dafb;
+}
+*/
+
+#passwordPanel {
+	bottom: 10vw;
+	position: absolute;
+	width: 100%;
+}
+
+.password-panel {
+	display: flex;
+	width: 100%;
+	flex-direction: column;
+}
+
+.password-panel > div {
+	flex-direction: row;
+	display: flex;
+	justify-content: center; /* spaced-evenly */
+}
+
+.password-button {
+	padding: 8px;
+	background: var(--darkblue);
+	border: 2px solid var(--grey);
+	width: 20vw;
+	height: 20vw;
+	line-height: 20vw;
+	font-size: 200%;
+	font-weight: bold;
+	color: white;
+	transition: background 0.4s;
+}
+
+.active-button {
+	transition: background 0s;
+	background: #aaccff;
+}
+
+@media screen and (orientation: landscape) {
+	#passwordPanel {
+		display: block;
+		bottom: unset;
+	}
+
+	.password-button {
+		width: 18vh;
+		height: 18vh;
+		line-height: 18vh;
+	}
+}
+
+.password-box {
+	display: flex;
+	justify-content: center;
+}
+
+.password-box > div {
+	width: 40px;
+	height: 40px;
+	line-height: 33px;
+	font-size: 300%;
+	margin: 4px;
+	margin-bottom: 12px;
+	background: #ddd;
+	border: 1px solid black;
+}
+
+.splash-screen {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	background: #000;
+	opacity: 0.8;
+	transition: opacity .5s;
+}
+
+.splash-hide {
+	pointer-events: none;
+	opacity: 0;
+}
+
+.splash-image {
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 20vw;
+	height: 100%;
+}
+
+.splash-image>img {
+	position: absolute;
+	width: 100%;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+@media screen and (orientation: landscape) {
+	.splash-image {
+		width: 10vw;
+	}
+}

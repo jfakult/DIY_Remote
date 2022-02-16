@@ -1,0 +1,5640 @@
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$4
+temp
+$10
+value here
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$4
+temp
+$10
+value here
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$14
+password_12345
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$168
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": []
+}
+*3
+$3
+set
+$14
+password_43215
+$16
+:efs4XF->ok4T5=i
+*3
+$3
+set
+$16
+:efs4XF->ok4T5=i
+$168
+{
+    "creationTime": 1611873047627,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": []
+}
+*3
+$3
+set
+$14
+password_12354
+$16
+r@B&C%m16Dy"OcoO
+*3
+$3
+set
+$16
+r@B&C%m16Dy"OcoO
+$213
+{
+    "creationTime": 1611874017828,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "first_name": "j",
+    "last_name": "j"
+}
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$22
+token_5wO*-3I=MSMEvtPb
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$38
+token_n|5o'2z;utG)>/^8}_LNLu(K@<Qhv8(Q
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$38
+token_7YI^w|$6@PuXj:Ix|FOuReF|xJlx}qh#
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$38
+token_'%5_sk21-Gg9,4AkxJ@/obi$o1?.K[Es
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$38
+token_98RnS_@)dN60OxBdnzz>/@FD=O&;-5A<
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$38
+token_ibw)gaovAcT#'|dIr$_&-JMtMu26>D$I
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$38
+token_7%Mtc82Aew6dUMiN^Zo@yPjH}aN91v5h
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$301
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": "7%Mtc82Aew6dUMiN^Zo@yPjH}aN91v5h",
+            "exp": 1611982799999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+7%Mtc82Aew6dUMiN^Zo@yPjH}aN91v5h
+*3
+$3
+set
+$38
+token_psgu\f%_fyMFX<Kcx*h9jppEgve+1yLc
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$302
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": "psgu\\f%_fyMFX<Kcx*h9jppEgve+1yLc",
+            "exp": 1611982799999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+psgu\f%_fyMFX<Kcx*h9jppEgve+1yLc
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$38
+token_u|NxyZ1+?{twn`KdKg$4WQjp+C:tWz9J
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$301
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": "u|NxyZ1+?{twn`KdKg$4WQjp+C:tWz9J",
+            "exp": 1612760399999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+u|NxyZ1+?{twn`KdKg$4WQjp+C:tWz9J
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$38
+token__l0}}O5~&maMRZ(1|iv{qv&t$~=2}$)T
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$301
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": "_l0}}O5~&maMRZ(1|iv{qv&t$~=2}$)T",
+            "exp": 1623643199999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+_l0}}O5~&maMRZ(1|iv{qv&t$~=2}$)T
+*3
+$3
+set
+$38
+token_XDUY.F$IH<5Q:l\pqDv;tmqU#=Nt_J1Z
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$302
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": "XDUY.F$IH<5Q:l\\pqDv;tmqU#=Nt_J1Z",
+            "exp": 1623643199999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+XDUY.F$IH<5Q:l\pqDv;tmqU#=Nt_J1Z
+*3
+$3
+set
+$38
+token_hO|oAKV(&zCX%^MX4-H\0&|,NBiJp!&H
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$302
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": "hO|oAKV(&zCX%^MX4-H\\0&|,NBiJp!&H",
+            "exp": 1623643199999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+hO|oAKV(&zCX%^MX4-H\0&|,NBiJp!&H
+*3
+$3
+set
+$38
+token_h5VDLAy]_+;O,>"gV[((>vAp2\s@A$x/
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$303
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": "h5VDLAy]_+;O,>\"gV[((>vAp2\\s@A$x/",
+            "exp": 1623643199999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+h5VDLAy]_+;O,>"gV[((>vAp2\s@A$x/
+*3
+$3
+set
+$38
+token_z\2<Uv9W_,(yxCqc.>0:a9Z{U?(fn|41
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$302
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": "z\\2<Uv9W_,(yxCqc.>0:a9Z{U?(fn|41",
+            "exp": 1623643199999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+z\2<Uv9W_,(yxCqc.>0:a9Z{U?(fn|41
+*3
+$3
+set
+$38
+token_,/dS*(+!B^auT`V.X&"o}_dBiT}rh;`L
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$302
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": ",/dS*(+!B^auT`V.X&\"o}_dBiT}rh;`L",
+            "exp": 1623643199999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+,/dS*(+!B^auT`V.X&"o}_dBiT}rh;`L
+*3
+$3
+set
+$38
+token_^Qn~eej9<_]Rh;cvsq^7I^]&?>Ho_Hp@
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$301
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": "^Qn~eej9<_]Rh;cvsq^7I^]&?>Ho_Hp@",
+            "exp": 1623643199999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+^Qn~eej9<_]Rh;cvsq^7I^]&?>Ho_Hp@
+*3
+$3
+set
+$38
+token_A{~s6K?nc)g')5N-ejkD3%?7cK6~}.W`
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$301
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": "A{~s6K?nc)g')5N-ejkD3%?7cK6~}.W`",
+            "exp": 1623643199999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+A{~s6K?nc)g')5N-ejkD3%?7cK6~}.W`
+*3
+$3
+set
+$38
+token_kxgI1Z_q@y?6wv[0;:I]!IpK.v$iI)cv
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$301
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": "kxgI1Z_q@y?6wv[0;:I]!IpK.v$iI)cv",
+            "exp": 1623643199999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+kxgI1Z_q@y?6wv[0;:I]!IpK.v$iI)cv
+*3
+$3
+set
+$38
+token_5wmZo`X#nZ6d.Lq1h=j$UZsIpe?DeS,G
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$301
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": "5wmZo`X#nZ6d.Lq1h=j$UZsIpe?DeS,G",
+            "exp": 1623643199999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+5wmZo`X#nZ6d.Lq1h=j$UZsIpe?DeS,G
+*3
+$3
+set
+$38
+token_0`jz1&(mWgp\LOVDDs5dY=vO6rE2>S]R
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$302
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": "0`jz1&(mWgp\\LOVDDs5dY=vO6rE2>S]R",
+            "exp": 1623643199999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+0`jz1&(mWgp\LOVDDs5dY=vO6rE2>S]R
+*3
+$3
+set
+$38
+token_)D<1}~'w^:j#B10W#7wzHMq<u,lW^ZS6
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$301
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": ")D<1}~'w^:j#B10W#7wzHMq<u,lW^ZS6",
+            "exp": 1623643199999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+)D<1}~'w^:j#B10W#7wzHMq<u,lW^ZS6
+*3
+$3
+set
+$38
+token_W?/q):,DC81<lJCP(H.-b07dJ&~6><Ry
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$301
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": "W?/q):,DC81<lJCP(H.-b07dJ&~6><Ry",
+            "exp": 1623643199999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+W?/q):,DC81<lJCP(H.-b07dJ&~6><Ry
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$38
+token_Z9:'U>lg>fY}>p!fB2$q|Ui`[m$:zD{n
+$16
+Nb?aj+`e@19^\EvF
+*3
+$3
+set
+$16
+Nb?aj+`e@19^\EvF
+$301
+{
+    "creationTime": 1611873013219,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "remote_server_access_list": [],
+    "tokens": [
+        {
+            "token": "Z9:'U>lg>fY}>p!fB2$q|Ui`[m$:zD{n",
+            "exp": 1623729599999
+        }
+    ]
+}
+*3
+$3
+set
+$12
+master_token
+$32
+Z9:'U>lg>fY}>p!fB2$q|Ui`[m$:zD{n
+*3
+$3
+set
+$14
+password_54321
+$16
+QXD?:MEr]-]N@Yc9
+*3
+$3
+set
+$16
+QXD?:MEr]-]N@Yc9
+$259
+{
+    "creationTime": 1623683902578,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Jake",
+    "last_name": "Fake"
+}
+*3
+$3
+set
+$8
+user_ids
+$20
+["QXD?:MEr]-]N@Yc9"]
+*3
+$3
+set
+$38
+token_K*u0HLv.)W>dirSym|G:sn+Fuy|!WT9O
+$16
+QXD?:MEr]-]N@Yc9
+*3
+$3
+set
+$16
+QXD?:MEr]-]N@Yc9
+$374
+{
+    "creationTime": 1623683902578,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "K*u0HLv.)W>dirSym|G:sn+Fuy|!WT9O",
+            "exp": 1623729599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Jake",
+    "last_name": "Fake"
+}
+*3
+$3
+set
+$38
+token_mUZCw,r|}-s)%W%M`JwpD$~?Yuc~E"`h
+$16
+QXD?:MEr]-]N@Yc9
+*3
+$3
+set
+$16
+QXD?:MEr]-]N@Yc9
+$375
+{
+    "creationTime": 1623683902578,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "mUZCw,r|}-s)%W%M`JwpD$~?Yuc~E\"`h",
+            "exp": 1623729599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Jake",
+    "last_name": "Fake"
+}
+*3
+$3
+set
+$38
+token_};TvZX4L??8o#!vK`Hf1Fep'NI06@zjo
+$16
+QXD?:MEr]-]N@Yc9
+*3
+$3
+set
+$16
+QXD?:MEr]-]N@Yc9
+$374
+{
+    "creationTime": 1623683902578,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "};TvZX4L??8o#!vK`Hf1Fep'NI06@zjo",
+            "exp": 1623729599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Jake",
+    "last_name": "Fake"
+}
+*3
+$3
+set
+$38
+token_12Vw$%~LE}5])_b]pm{ujR`lKj8QM|U:
+$16
+QXD?:MEr]-]N@Yc9
+*3
+$3
+set
+$16
+QXD?:MEr]-]N@Yc9
+$374
+{
+    "creationTime": 1623683902578,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "12Vw$%~LE}5])_b]pm{ujR`lKj8QM|U:",
+            "exp": 1623729599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Jake",
+    "last_name": "Fake"
+}
+*3
+$3
+set
+$38
+token_Rp1RFyrYz#c-jJu:9$|usEK<A3y}r{V8
+$16
+QXD?:MEr]-]N@Yc9
+*3
+$3
+set
+$16
+QXD?:MEr]-]N@Yc9
+$374
+{
+    "creationTime": 1623683902578,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "Rp1RFyrYz#c-jJu:9$|usEK<A3y}r{V8",
+            "exp": 1623729599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Jake",
+    "last_name": "Fake"
+}
+*2
+$3
+del
+$16
+:efs4XF->ok4T5=i
+*2
+$3
+del
+$16
+Nb?aj+`e@19^\EvF
+*2
+$3
+del
+$16
+QXD?:MEr]-]N@Yc9
+*2
+$3
+del
+$12
+master_token
+*2
+$3
+del
+$14
+password_12345
+*2
+$3
+del
+$14
+password_12354
+*2
+$3
+del
+$14
+password_54321
+*1
+$8
+flushall
+*3
+$3
+set
+$14
+password_12345
+$16
+UnYXB(8+us-uXRXP
+*3
+$3
+set
+$16
+UnYXB(8+us-uXRXP
+$260
+{
+    "creationTime": 1623693266806,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Jake",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$8
+user_ids
+$20
+["UnYXB(8+us-uXRXP"]
+*3
+$3
+set
+$38
+token_n!"7UF/l$?"78{!*A.kFl5qY;`'+dTT3
+$16
+UnYXB(8+us-uXRXP
+*3
+$3
+set
+$16
+UnYXB(8+us-uXRXP
+$377
+{
+    "creationTime": 1623693266806,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "n!\"7UF/l$?\"78{!*A.kFl5qY;`'+dTT3",
+            "exp": 1623729599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Jake",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+n!"7UF/l$?"78{!*A.kFl5qY;`'+dTT3
+*3
+$3
+set
+$38
+token_n.K]>Z[WXy)qNb9sB'i"T-h%~{q#6c\U
+$16
+UnYXB(8+us-uXRXP
+*3
+$3
+set
+$16
+UnYXB(8+us-uXRXP
+$377
+{
+    "creationTime": 1623693266806,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "n.K]>Z[WXy)qNb9sB'i\"T-h%~{q#6c\\U",
+            "exp": 1623729599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Jake",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+n.K]>Z[WXy)qNb9sB'i"T-h%~{q#6c\U
+*2
+$3
+del
+$38
+token_n.K]>Z[WXy)qNb9sB'i"T-h%~{q#6c\U
+*2
+$3
+del
+$38
+token_n!"7UF/l$?"78{!*A.kFl5qY;`'+dTT3
+*2
+$3
+del
+$12
+master_token
+*3
+$3
+set
+$38
+token_.+KlKL:;TF%e+iq}}2~]"5Ev&"^j^8Iz
+$16
+UnYXB(8+us-uXRXP
+*3
+$3
+set
+$16
+UnYXB(8+us-uXRXP
+$377
+{
+    "creationTime": 1623693266806,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": ".+KlKL:;TF%e+iq}}2~]\"5Ev&\"^j^8Iz",
+            "exp": 1623729599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Jake",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+.+KlKL:;TF%e+iq}}2~]"5Ev&"^j^8Iz
+*2
+$3
+del
+$12
+master_token
+*2
+$3
+del
+$38
+token_.+KlKL:;TF%e+iq}}2~]"5Ev&"^j^8Iz
+*3
+$3
+set
+$38
+token_k]GUibHM!8M,/:/nL!I(ycMU&7>XZhg*
+$16
+UnYXB(8+us-uXRXP
+*3
+$3
+set
+$16
+UnYXB(8+us-uXRXP
+$375
+{
+    "creationTime": 1623693266806,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "k]GUibHM!8M,/:/nL!I(ycMU&7>XZhg*",
+            "exp": 1623729599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Jake",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+k]GUibHM!8M,/:/nL!I(ycMU&7>XZhg*
+*3
+$3
+set
+$38
+token_t}8h|'TA^b:TBb<mepM)m87z`{j)=cx~
+$16
+UnYXB(8+us-uXRXP
+*3
+$3
+set
+$16
+UnYXB(8+us-uXRXP
+$375
+{
+    "creationTime": 1623693266806,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "t}8h|'TA^b:TBb<mepM)m87z`{j)=cx~",
+            "exp": 1623729599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Jake",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+t}8h|'TA^b:TBb<mepM)m87z`{j)=cx~
+*3
+$3
+set
+$38
+token_!cj32/#m$$"&)x!e1yM$[$gYX@92upES
+$16
+UnYXB(8+us-uXRXP
+*3
+$3
+set
+$16
+UnYXB(8+us-uXRXP
+$376
+{
+    "creationTime": 1623693266806,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "!cj32/#m$$\"&)x!e1yM$[$gYX@92upES",
+            "exp": 1623729599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Jake",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+!cj32/#m$$"&)x!e1yM$[$gYX@92upES
+*3
+$3
+set
+$38
+token_z:$qm_uy=@<)6m4ho*[)GHlHiaA*Z,{C
+$16
+UnYXB(8+us-uXRXP
+*3
+$3
+set
+$16
+UnYXB(8+us-uXRXP
+$375
+{
+    "creationTime": 1623693266806,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "z:$qm_uy=@<)6m4ho*[)GHlHiaA*Z,{C",
+            "exp": 1623729599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Jake",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+z:$qm_uy=@<)6m4ho*[)GHlHiaA*Z,{C
+*3
+$3
+set
+$39
+device_z`$f%LC#^tg?oIF*@jziTT<'^/Mo>3.3
+$16
+UnYXB(8+us-uXRXP
+*3
+$3
+set
+$39
+device_4Y$_tN6M=IP<E:pq./Y.mvH3a1tX$]Wc
+$16
+UnYXB(8+us-uXRXP
+*3
+$3
+set
+$10
+device_ids
+$36
+["4Y$_tN6M=IP<E:pq./Y.mvH3a1tX$]Wc"]
+*3
+$3
+set
+$39
+device_+VySTV>Ayz2M1.>xs)MR?M7~[;5R(cNE
+$16
+UnYXB(8+us-uXRXP
+*3
+$3
+set
+$39
+device_&/m>}K=O,'Z8yRB#,%q&Ckd8*~@58pW*
+$16
+UnYXB(8+us-uXRXP
+*3
+$3
+set
+$39
+device_NH!]eu{NN<YtX?Yr>?th#sm`P-XQ$%da
+$16
+UnYXB(8+us-uXRXP
+*3
+$3
+set
+$38
+token_i;":wkoN[Gab/J~i`aa:]0rEv?:4\o%I
+$16
+UnYXB(8+us-uXRXP
+*3
+$3
+set
+$16
+UnYXB(8+us-uXRXP
+$377
+{
+    "creationTime": 1623693266806,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "i;\":wkoN[Gab/J~i`aa:]0rEv?:4\\o%I",
+            "exp": 1623729599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Jake",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+i;":wkoN[Gab/J~i`aa:]0rEv?:4\o%I
+*1
+$8
+flushall
+*3
+$3
+set
+$14
+password_12345
+$16
+[]}T,w<8Jr_m^}3S
+*3
+$3
+set
+$16
+[]}T,w<8Jr_m^}3S
+$261
+{
+    "creationTime": 1623701705678,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$8
+user_ids
+$20
+["[]}T,w<8Jr_m^}3S"]
+*3
+$3
+set
+$38
+token_i9}:/E;tX;TeXBobp/OyeUqh3#}4}Yb5
+$16
+[]}T,w<8Jr_m^}3S
+*3
+$3
+set
+$16
+[]}T,w<8Jr_m^}3S
+$376
+{
+    "creationTime": 1623701705678,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "i9}:/E;tX;TeXBobp/OyeUqh3#}4}Yb5",
+            "exp": 1623729599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+i9}:/E;tX;TeXBobp/OyeUqh3#}4}Yb5
+*3
+$3
+set
+$39
+device_ypj6!0}I1%Xg_P~Vq\Lc[=V3-zW>kJzu
+$16
+[]}T,w<8Jr_m^}3S
+*3
+$3
+set
+$10
+device_ids
+$37
+["ypj6!0}I1%Xg_P~Vq\\Lc[=V3-zW>kJzu"]
+*3
+$3
+set
+$38
+token_\ySN~(X!D%#__o+(SzLS3ub566*\)Ujv
+$16
+[]}T,w<8Jr_m^}3S
+*3
+$3
+set
+$16
+[]}T,w<8Jr_m^}3S
+$378
+{
+    "creationTime": 1623701705678,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "\\ySN~(X!D%#__o+(SzLS3ub566*\\)Ujv",
+            "exp": 1623729599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+\ySN~(X!D%#__o+(SzLS3ub566*\)Ujv
+*3
+$3
+set
+$38
+token_vAB2:exm}0dXC&_aB}2lQ*.6J{4l=6\3
+$16
+[]}T,w<8Jr_m^}3S
+*3
+$3
+set
+$16
+[]}T,w<8Jr_m^}3S
+$377
+{
+    "creationTime": 1623701705678,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "vAB2:exm}0dXC&_aB}2lQ*.6J{4l=6\\3",
+            "exp": 1623729599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+vAB2:exm}0dXC&_aB}2lQ*.6J{4l=6\3
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$38
+token_>Pk)=Y+qg*6uplyJcmbT$E!o1iM3q{o]
+$16
+[]}T,w<8Jr_m^}3S
+*3
+$3
+set
+$16
+[]}T,w<8Jr_m^}3S
+$376
+{
+    "creationTime": 1623701705678,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": ">Pk)=Y+qg*6uplyJcmbT$E!o1iM3q{o]",
+            "exp": 1623815999999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+>Pk)=Y+qg*6uplyJcmbT$E!o1iM3q{o]
+*2
+$3
+del
+$8
+user_ids
+*2
+$3
+del
+$38
+token_vAB2:exm}0dXC&_aB}2lQ*.6J{4l=6\3
+*2
+$3
+del
+$38
+token_i9}:/E;tX;TeXBobp/OyeUqh3#}4}Yb5
+*2
+$3
+del
+$38
+token_\ySN~(X!D%#__o+(SzLS3ub566*\)Ujv
+*2
+$3
+del
+$38
+token_>Pk)=Y+qg*6uplyJcmbT$E!o1iM3q{o]
+*2
+$3
+del
+$12
+master_token
+*2
+$3
+del
+$39
+device_ypj6!0}I1%Xg_P~Vq\Lc[=V3-zW>kJzu
+*2
+$3
+del
+$10
+device_ids
+*2
+$3
+del
+$14
+password_12345
+*2
+$3
+del
+$16
+[]}T,w<8Jr_m^}3S
+*3
+$3
+set
+$14
+password:12345
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$261
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$8
+user_ids
+$20
+["LbB`btliQ;+XzD?["]
+*3
+$3
+set
+$38
+token:Y1Xr`wihlH&iorQrw''#g.z7_-NR[B/v
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$376
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "Y1Xr`wihlH&iorQrw''#g.z7_-NR[B/v",
+            "exp": 1623815999999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+Y1Xr`wihlH&iorQrw''#g.z7_-NR[B/v
+*3
+$3
+set
+$39
+device:.nrst_{mtkhH1^(oJr~XttL@Ma4><`oV
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$10
+device_ids
+$36
+[".nrst_{mtkhH1^(oJr~XttL@Ma4><`oV"]
+*2
+$3
+del
+$39
+device:.nrst_{mtkhH1^(oJr~XttL@Ma4><`oV
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$10
+device_ids
+$36
+["V1%kOm/1RcvA)={|IU@W*Y<4.S]jO%qG"]
+*3
+$3
+set
+$10
+device_ids
+$37
+["|Pj'.NBw>>}MFyv9RIHBlu(vG;^\\jdIK"]
+*3
+$3
+set
+$39
+device:sH)op<@}Ta\#m@sjkZyXP[U3V'H1!V7I
+$230
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "sH)op<@}Ta\\#m@sjkZyXP[U3V'H1!V7I",
+    "device": "sH)op<@}Ta\\#m@sjkZyXP[U3V'H1!V7I"
+}
+*3
+$3
+set
+$39
+device:mpC_}Br\mXYl&armyL8b]i[$j.Q-:ZYG
+$230
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "mpC_}Br\\mXYl&armyL8b]i[$j.Q-:ZYG",
+    "device": "mpC_}Br\\mXYl&armyL8b]i[$j.Q-:ZYG"
+}
+*2
+$3
+del
+$39
+device:sH)op<@}Ta\#m@sjkZyXP[U3V'H1!V7I
+*2
+$3
+del
+$39
+device:mpC_}Br\mXYl&armyL8b]i[$j.Q-:ZYG
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$39
+device:O&J4S&f_}Y\hJ4~O|zr&|Q3=Os3KR05r
+$230
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "O&J4S&f_}Y\\hJ4~O|zr&|Q3=Os3KR05r",
+    "device": "O&J4S&f_}Y\\hJ4~O|zr&|Q3=Os3KR05r"
+}
+*3
+$3
+set
+$39
+device:YQ'hE"cW_}\b,ubw1GwNjn;@'J~RV?QA
+$232
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "YQ'hE\"cW_}\\b,ubw1GwNjn;@'J~RV?QA",
+    "device": "YQ'hE\"cW_}\\b,ubw1GwNjn;@'J~RV?QA"
+}
+*3
+$3
+set
+$10
+device_ids
+$74
+["O&J4S&f_}Y\\hJ4~O|zr&|Q3=Os3KR05r","YQ'hE\"cW_}\\b,ubw1GwNjn;@'J~RV?QA"]
+*3
+$3
+set
+$39
+device:dZXaC22Z;sxf/8CRxXp~'E9Gx5DrH=pL
+$228
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "dZXaC22Z;sxf/8CRxXp~'E9Gx5DrH=pL",
+    "device": "dZXaC22Z;sxf/8CRxXp~'E9Gx5DrH=pL"
+}
+*3
+$3
+set
+$39
+device:T>I?VSzE^1.1w%ezKZd\/6=1?q;0sqlk
+$230
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "T>I?VSzE^1.1w%ezKZd\\/6=1?q;0sqlk",
+    "device": "T>I?VSzE^1.1w%ezKZd\\/6=1?q;0sqlk"
+}
+*3
+$3
+set
+$39
+device:$7S$U~#Yv$$e:aqqZFx^h<-,KB{>]-tW
+$228
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "$7S$U~#Yv$$e:aqqZFx^h<-,KB{>]-tW",
+    "device": "$7S$U~#Yv$$e:aqqZFx^h<-,KB{>]-tW"
+}
+*3
+$3
+set
+$39
+device:^yr`,uJA?|nk>8hWh'hRD=Jnh38DNTWH
+$228
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "^yr`,uJA?|nk>8hWh'hRD=Jnh38DNTWH",
+    "device": "^yr`,uJA?|nk>8hWh'hRD=Jnh38DNTWH"
+}
+*3
+$3
+set
+$10
+device_ids
+$85
+[
+    "O&J4S&f_}Y\\hJ4~O|zr&|Q3=Os3KR05r",
+    "YQ'hE\"cW_}\\b,ubw1GwNjn;@'J~RV?QA"
+]
+*2
+$3
+del
+$39
+device:$7S$U~#Yv$$e:aqqZFx^h<-,KB{>]-tW
+*2
+$3
+del
+$39
+device:O&J4S&f_}Y\hJ4~O|zr&|Q3=Os3KR05r
+*2
+$3
+del
+$39
+device:dZXaC22Z;sxf/8CRxXp~'E9Gx5DrH=pL
+*2
+$3
+del
+$39
+device:T>I?VSzE^1.1w%ezKZd\/6=1?q;0sqlk
+*2
+$3
+del
+$39
+device:YQ'hE"cW_}\b,ubw1GwNjn;@'J~RV?QA
+*2
+$3
+del
+$39
+device:^yr`,uJA?|nk>8hWh'hRD=Jnh38DNTWH
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$39
+device:;Ar`12U=JyY,jH$p;PTro>5MdwP`I:)a
+$228
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": ";Ar`12U=JyY,jH$p;PTro>5MdwP`I:)a",
+    "device": ";Ar`12U=JyY,jH$p;PTro>5MdwP`I:)a"
+}
+*3
+$3
+set
+$39
+device:-'`\PMc$12uk%nC>W%py(S(!l!,c?DNt
+$230
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "-'`\\PMc$12uk%nC>W%py(S(!l!,c?DNt",
+    "device": "-'`\\PMc$12uk%nC>W%py(S(!l!,c?DNt"
+}
+*3
+$3
+set
+$10
+device_ids
+$72
+[";Ar`12U=JyY,jH$p;PTro>5MdwP`I:)a","-'`\\PMc$12uk%nC>W%py(S(!l!,c?DNt"]
+*2
+$3
+del
+$39
+device:;Ar`12U=JyY,jH$p;PTro>5MdwP`I:)a
+*2
+$3
+del
+$39
+device:-'`\PMc$12uk%nC>W%py(S(!l!,c?DNt
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$39
+device:=EAkOuS)$]/jw.v`cFWA8bu'OtXrEXS.
+$291
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "=EAkOuS)$]/jw.v`cFWA8bu'OtXrEXS.",
+    "device": {
+        "name": "dname1",
+        "location": "dloc1",
+        "device_type": "rgblights"
+    }
+}
+*3
+$3
+set
+$39
+device:f1&OYLaa!hpHPPaAbwJ!P=lAc.*9P,{{
+$291
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "f1&OYLaa!hpHPPaAbwJ!P=lAc.*9P,{{",
+    "device": {
+        "name": "dname1",
+        "location": "dloc1",
+        "device_type": "rgblights"
+    }
+}
+*3
+$3
+set
+$39
+device:nn/Tka7O}+y{V`Z73&%?yovQCCX^@Qw\
+$289
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "nn/Tka7O}+y{V`Z73&%?yovQCCX^@Qw\\",
+    "device": {
+        "name": "dname2",
+        "location": "dloc2",
+        "device_type": "motors"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$72
+["f1&OYLaa!hpHPPaAbwJ!P=lAc.*9P,{{","nn/Tka7O}+y{V`Z73&%?yovQCCX^@Qw\\"]
+*2
+$3
+del
+$39
+device:nn/Tka7O}+y{V`Z73&%?yovQCCX^@Qw\
+*2
+$3
+del
+$39
+device:f1&OYLaa!hpHPPaAbwJ!P=lAc.*9P,{{
+*2
+$3
+del
+$39
+device:=EAkOuS)$]/jw.v`cFWA8bu'OtXrEXS.
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$39
+device:au5r?.G1\'MITa^cO='4J<5+p)nF*}q#
+$292
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "au5r?.G1\\'MITa^cO='4J<5+p)nF*}q#",
+    "device": {
+        "name": "dname1",
+        "location": "dloc1",
+        "device_type": "rgblights"
+    }
+}
+*3
+$3
+set
+$39
+device:/`M3BVx%Fe$#>(O6Y#"D4E`3fHw+)?li
+$289
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "/`M3BVx%Fe$#>(O6Y#\"D4E`3fHw+)?li",
+    "device": {
+        "name": "dname2",
+        "location": "dloc2",
+        "device_type": "motors"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$73
+["au5r?.G1\\'MITa^cO='4J<5+p)nF*}q#","/`M3BVx%Fe$#>(O6Y#\"D4E`3fHw+)?li"]
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$38
+token:^H=@on}@joo$DL$J[b)_b-JUk2?%&Q,N
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$376
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "^H=@on}@joo$DL$J[b)_b-JUk2?%&Q,N",
+            "exp": 1623988799999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+^H=@on}@joo$DL$J[b)_b-JUk2?%&Q,N
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$39
+device:t=T)>jTfen,#"3"UqGD/1r>B2tn`"%F4
+$352
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "t=T)>jTfen,#\"3\"UqGD/1r>B2tn`\"%F4",
+    "device": {
+        "name": "dname1",
+        "location": "dloc1",
+        "device_type": "rgblights",
+        "image_name": "LED",
+        "image_type": "png"
+    }
+}
+*3
+$3
+set
+$39
+device:c6/C`JV^QufG+Tf>ZF!.5`cF5lO|rUn0
+$348
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "c6/C`JV^QufG+Tf>ZF!.5`cF5lO|rUn0",
+    "device": {
+        "name": "dname2",
+        "location": "dloc2",
+        "device_type": "motors",
+        "image_name": "motor",
+        "image_type": "png"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$84
+[
+    "au5r?.G1\\'MITa^cO='4J<5+p)nF*}q#",
+    "/`M3BVx%Fe$#>(O6Y#\"D4E`3fHw+)?li"
+]
+*2
+$3
+del
+$39
+device:/`M3BVx%Fe$#>(O6Y#"D4E`3fHw+)?li
+*2
+$3
+del
+$39
+device:au5r?.G1\'MITa^cO='4J<5+p)nF*}q#
+*3
+$3
+set
+$38
+token:Y2=(!K?$M9C0|rv7hDSTW<#p7vZ6d^fO
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$376
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "Y2=(!K?$M9C0|rv7hDSTW<#p7vZ6d^fO",
+            "exp": 1623988799999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+Y2=(!K?$M9C0|rv7hDSTW<#p7vZ6d^fO
+*2
+$3
+del
+$10
+device_ids
+*2
+$3
+del
+$39
+device:t=T)>jTfen,#"3"UqGD/1r>B2tn`"%F4
+*2
+$3
+del
+$39
+device:c6/C`JV^QufG+Tf>ZF!.5`cF5lO|rUn0
+*3
+$3
+set
+$39
+device:+uiny\kJox_lF|Tr</o2uguAnKP?;p]B
+$350
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "+uiny\\kJox_lF|Tr</o2uguAnKP?;p]B",
+    "device": {
+        "name": "dname1",
+        "location": "dloc1",
+        "device_type": "rgblights",
+        "image_name": "LED",
+        "image_type": "png"
+    }
+}
+*3
+$3
+set
+$39
+device:)ii#()Bq\0C`Q`W0%]|_oGyar$ZyTGOF
+$349
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": ")ii#()Bq\\0C`Q`W0%]|_oGyar$ZyTGOF",
+    "device": {
+        "name": "dname2",
+        "location": "dloc2",
+        "device_type": "motors",
+        "image_name": "motor",
+        "image_type": "png"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$73
+["+uiny\\kJox_lF|Tr</o2uguAnKP?;p]B",")ii#()Bq\\0C`Q`W0%]|_oGyar$ZyTGOF"]
+*3
+$3
+set
+$39
+device:sd[c9lxDz<iUYc("^4;_-9Rd@'#<,tgE
+$352
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "sd[c9lxDz<iUYc(\"^4;_-9Rd@'#<,tgE",
+    "device": {
+        "name": "dname1",
+        "location": "dloc1",
+        "device_type": "rgblights",
+        "image_name": "LED",
+        "image_format": "png"
+    }
+}
+*3
+$3
+set
+$39
+device:Kz4>=H,Tb>1^b7/)$ORU!G{KKdvRR{Yw
+$350
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "Kz4>=H,Tb>1^b7/)$ORU!G{KKdvRR{Yw",
+    "device": {
+        "name": "dname2",
+        "location": "dloc2",
+        "device_type": "motors",
+        "image_name": "motor",
+        "image_format": "svg"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$84
+[
+    "+uiny\\kJox_lF|Tr</o2uguAnKP?;p]B",
+    ")ii#()Bq\\0C`Q`W0%]|_oGyar$ZyTGOF"
+]
+*2
+$3
+del
+$39
+device:Kz4>=H,Tb>1^b7/)$ORU!G{KKdvRR{Yw
+*2
+$3
+del
+$39
+device:)ii#()Bq\0C`Q`W0%]|_oGyar$ZyTGOF
+*2
+$3
+del
+$39
+device:sd[c9lxDz<iUYc("^4;_-9Rd@'#<,tgE
+*2
+$3
+del
+$39
+device:+uiny\kJox_lF|Tr</o2uguAnKP?;p]B
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$39
+device:(u~;H^+HVA5<|zkFB2#BWT@}<gAS)e,u
+$351
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "(u~;H^+HVA5<|zkFB2#BWT@}<gAS)e,u",
+    "device": {
+        "name": "dname1",
+        "location": "dloc1",
+        "device_type": "rgblights",
+        "image_name": "LED",
+        "image_format": "png"
+    }
+}
+*3
+$3
+set
+$39
+device:[o|~Ep|mW9vHeaNct@!u]|8hXFTv}&SE
+$350
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "[o|~Ep|mW9vHeaNct@!u]|8hXFTv}&SE",
+    "device": {
+        "name": "dname2",
+        "location": "dloc2",
+        "device_type": "motors",
+        "image_name": "motor",
+        "image_format": "svg"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$71
+["(u~;H^+HVA5<|zkFB2#BWT@}<gAS)e,u","[o|~Ep|mW9vHeaNct@!u]|8hXFTv}&SE"]
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$38
+token:(-w_Ie#75x*VB#VYp+w!b=y-CpLQJ{/<
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$376
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "(-w_Ie#75x*VB#VYp+w!b=y-CpLQJ{/<",
+            "exp": 1624507199999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+(-w_Ie#75x*VB#VYp+w!b=y-CpLQJ{/<
+*2
+$3
+del
+$39
+device:(u~;H^+HVA5<|zkFB2#BWT@}<gAS)e,u
+*2
+$3
+del
+$39
+device:[o|~Ep|mW9vHeaNct@!u]|8hXFTv}&SE
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$39
+device:"T@+)IX;dlbpD#\Tup~5F"tSa[_{~y8@
+$455
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "\"T@+)IX;dlbpD#\\Tup~5F\"tSa[_{~y8@",
+    "device": {
+        "name": "dname1",
+        "location": "dloc1",
+        "device_type": "rgblights",
+        "image_name": "LED",
+        "image_format": "png",
+        "data": {
+            "red": 100,
+            "green": 50,
+            "blue": 30
+        }
+    }
+}
+*3
+$3
+set
+$39
+device:B<\+Og)RZvh>;;}-8_U9.d-b,QiW2zSv
+$351
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pname1",
+    "project_location": "ploc1",
+    "ssh_port": "6013",
+    "device_id": "B<\\+Og)RZvh>;;}-8_U9.d-b,QiW2zSv",
+    "device": {
+        "name": "dname2",
+        "location": "dloc2",
+        "device_type": "motors",
+        "image_name": "motor",
+        "image_format": "svg"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$75
+["\"T@+)IX;dlbpD#\\Tup~5F\"tSa[_{~y8@","B<\\+Og)RZvh>;;}-8_U9.d-b,QiW2zSv"]
+*3
+$3
+set
+$38
+token:8653djMW~f3}N38GtaG|JXu)GmGyP"pF
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$377
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "8653djMW~f3}N38GtaG|JXu)GmGyP\"pF",
+            "exp": 1624593599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+8653djMW~f3}N38GtaG|JXu)GmGyP"pF
+*2
+$6
+SELECT
+$1
+0
+*2
+$3
+del
+$39
+device:B<\+Og)RZvh>;;}-8_U9.d-b,QiW2zSv
+*2
+$3
+del
+$39
+device:"T@+)IX;dlbpD#\Tup~5F"tSa[_{~y8@
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$38
+token:>MarQXab2>1@edOcesasG2+lV{^D1>{9
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$376
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": ">MarQXab2>1@edOcesasG2+lV{^D1>{9",
+            "exp": 1624593599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+>MarQXab2>1@edOcesasG2+lV{^D1>{9
+*3
+$3
+set
+$38
+token:l+8]SMW.&fS3,@B%~\dp^,us+^SW5R'+
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$377
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "l+8]SMW.&fS3,@B%~\\dp^,us+^SW5R'+",
+            "exp": 1624593599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+l+8]SMW.&fS3,@B%~\dp^,us+^SW5R'+
+*3
+$3
+set
+$39
+device:#*WF9c;XK*iFR]s<TEavN%jX^,CS0ay,
+$277
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pi",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "#*WF9c;XK*iFR]s<TEavN%jX^,CS0ay,",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$36
+["#*WF9c;XK*iFR]s<TEavN%jX^,CS0ay,"]
+*3
+$3
+set
+$38
+token:^jn%'Y`N)J8zz,4XBeW+F`qR\_~qGb#Y
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$377
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "^jn%'Y`N)J8zz,4XBeW+F`qR\\_~qGb#Y",
+            "exp": 1624593599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+^jn%'Y`N)J8zz,4XBeW+F`qR\_~qGb#Y
+*2
+$3
+del
+$39
+device:#*WF9c;XK*iFR]s<TEavN%jX^,CS0ay,
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$39
+device:'|h}5|p9]L`@@LP%GD.G\?U{#-Q{%C[6
+$381
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "'|h}5|p9]L`@@LP%GD.G\\?U{#-Q{%C[6",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        }
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$37
+["'|h}5|p9]L`@@LP%GD.G\\?U{#-Q{%C[6"]
+*3
+$3
+set
+$38
+token:Y!7WTcQ=`8gg>mzQ+c"uge|u_<"C<1en
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$378
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "Y!7WTcQ=`8gg>mzQ+c\"uge|u_<\"C<1en",
+            "exp": 1624593599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+Y!7WTcQ=`8gg>mzQ+c"uge|u_<"C<1en
+*3
+$3
+set
+$39
+device:+hG5*F2.hmurpbT+v]y=%qZ%7\Xv@%>]
+$381
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "+hG5*F2.hmurpbT+v]y=%qZ%7\\Xv@%>]",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        }
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$43
+[
+    "'|h}5|p9]L`@@LP%GD.G\\?U{#-Q{%C[6"
+]
+*3
+$3
+set
+$39
+device:Db>UyAURiz<r9'S[fPa(HQ{?u~c$[]#<
+$380
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "Db>UyAURiz<r9'S[fPa(HQ{?u~c$[]#<",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        }
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$43
+[
+    "'|h}5|p9]L`@@LP%GD.G\\?U{#-Q{%C[6"
+]
+*3
+$3
+set
+$39
+device:vtMn0;OxK@c8hvxl}Rb[UnpZ^Ru4gEp'
+$380
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "vtMn0;OxK@c8hvxl}Rb[UnpZ^Ru4gEp'",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        }
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$43
+[
+    "'|h}5|p9]L`@@LP%GD.G\\?U{#-Q{%C[6"
+]
+*3
+$3
+set
+$39
+device:sF{pAsZD?b(H+B?am4Z2uN#jnDjl4*Hx
+$380
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "sF{pAsZD?b(H+B?am4Z2uN#jnDjl4*Hx",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        }
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$43
+[
+    "'|h}5|p9]L`@@LP%GD.G\\?U{#-Q{%C[6"
+]
+*3
+$3
+set
+$39
+device:4)}AR%8/&I>H.W+/Pwk}o&CzwU9|@0]g
+$380
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "4)}AR%8/&I>H.W+/Pwk}o&CzwU9|@0]g",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        }
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$43
+[
+    "'|h}5|p9]L`@@LP%GD.G\\?U{#-Q{%C[6"
+]
+*2
+$3
+del
+$39
+device:4)}AR%8/&I>H.W+/Pwk}o&CzwU9|@0]g
+*2
+$3
+del
+$39
+device:sF{pAsZD?b(H+B?am4Z2uN#jnDjl4*Hx
+*2
+$3
+del
+$39
+device:vtMn0;OxK@c8hvxl}Rb[UnpZ^Ru4gEp'
+*2
+$3
+del
+$39
+device:Db>UyAURiz<r9'S[fPa(HQ{?u~c$[]#<
+*2
+$3
+del
+$39
+device:+hG5*F2.hmurpbT+v]y=%qZ%7\Xv@%>]
+*2
+$3
+del
+$39
+device:'|h}5|p9]L`@@LP%GD.G\?U{#-Q{%C[6
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$39
+device:Of/,K;}mO>+!."{J!\u3BCC.>wTzip{J
+$439
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "Of/,K;}mO>+!.\"{J!\\u3BCC.>wTzip{J",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        },
+        "device_id": "4)}AR%8/&I>H.W+/Pwk}o&CzwU9|@0]g"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$38
+["Of/,K;}mO>+!.\"{J!\\u3BCC.>wTzip{J"]
+*3
+$3
+set
+$38
+token:N%e-'^A~b`5QkvF{0~l2Z6Nrg=SkRpDE
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$376
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "N%e-'^A~b`5QkvF{0~l2Z6Nrg=SkRpDE",
+            "exp": 1624593599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+N%e-'^A~b`5QkvF{0~l2Z6Nrg=SkRpDE
+*2
+$3
+del
+$39
+device:Of/,K;}mO>+!."{J!\u3BCC.>wTzip{J
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$39
+device:#y)t^/M/qBlCUOXx0oeNGuP?Y7Krkege
+$439
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "#y)t^/M/qBlCUOXx0oeNGuP?Y7Krkege",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        },
+        "device_id": "Of/,K;}mO>+!.\"{J!\\u3BCC.>wTzip{J"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$36
+["#y)t^/M/qBlCUOXx0oeNGuP?Y7Krkege"]
+*2
+$3
+del
+$39
+device:#y)t^/M/qBlCUOXx0oeNGuP?Y7Krkege
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$39
+device:]~hW7b70R@PIaSF^aP@xjjP={s{GUiU1
+$437
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "]~hW7b70R@PIaSF^aP@xjjP={s{GUiU1",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        },
+        "device_id": "]~hW7b70R@PIaSF^aP@xjjP={s{GUiU1"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$36
+["]~hW7b70R@PIaSF^aP@xjjP={s{GUiU1"]
+*2
+$3
+del
+$39
+device:]~hW7b70R@PIaSF^aP@xjjP={s{GUiU1
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$39
+device:XsuzX0K55|>2bJGE`!e&n2#70\3p!K*b
+$439
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "XsuzX0K55|>2bJGE`!e&n2#70\\3p!K*b",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        },
+        "device_id": "XsuzX0K55|>2bJGE`!e&n2#70\\3p!K*b"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$37
+["XsuzX0K55|>2bJGE`!e&n2#70\\3p!K*b"]
+*2
+$3
+del
+$39
+device:XsuzX0K55|>2bJGE`!e&n2#70\3p!K*b
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$38
+token:YG)[}?Bh<I^khTcd{LsE}v&o1QWG=[>D
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$376
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "YG)[}?Bh<I^khTcd{LsE}v&o1QWG=[>D",
+            "exp": 1624593599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+YG)[}?Bh<I^khTcd{LsE}v&o1QWG=[>D
+*3
+$3
+set
+$39
+device:[8TcaT_~Zx@P]T!D43LR~%}fP,kg^lu<
+$400
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "[8TcaT_~Zx@P]T!D43LR~%}fP,kg^lu<",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": "{\"red\": 255, \"green\": 255, \"blue\": 255}",
+        "image_name": "LED",
+        "image_type": "png"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$36
+["[8TcaT_~Zx@P]T!D43LR~%}fP,kg^lu<"]
+*3
+$3
+set
+$38
+token:&[(A;%(4cl<vrr~9;l0I-@TZ&h"4Z[Zt
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$377
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "&[(A;%(4cl<vrr~9;l0I-@TZ&h\"4Z[Zt",
+            "exp": 1624593599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+&[(A;%(4cl<vrr~9;l0I-@TZ&h"4Z[Zt
+*2
+$3
+del
+$39
+device:[8TcaT_~Zx@P]T!D43LR~%}fP,kg^lu<
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$39
+device:=6VF8D2)^$'SAEy=~gv'R2}%58u1dXPF
+$457
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "=6VF8D2)^$'SAEy=~gv'R2}%58u1dXPF",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": "{\"red\": 255, \"green\": 255, \"blue\": 255}",
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "=6VF8D2)^$'SAEy=~gv'R2}%58u1dXPF"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$36
+["=6VF8D2)^$'SAEy=~gv'R2}%58u1dXPF"]
+*2
+$3
+del
+$39
+device:=6VF8D2)^$'SAEy=~gv'R2}%58u1dXPF
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$38
+token:gnhrjUS2{&P#017"^sy_za#MhP.RR}C-
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$377
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "gnhrjUS2{&P#017\"^sy_za#MhP.RR}C-",
+            "exp": 1624593599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+gnhrjUS2{&P#017"^sy_za#MhP.RR}C-
+*3
+$3
+set
+$39
+device:h+gDve#KV@jX2&QQ<O4vW_T@@oGRk&UJ
+$438
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "h+gDve#KV@jX2&QQ<O4vW_T@@oGRk&UJ",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        },
+        "image_name": "LED",
+        "image_type": "png"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$36
+["h+gDve#KV@jX2&QQ<O4vW_T@@oGRk&UJ"]
+*3
+$3
+set
+$38
+token:u<|F^4#Os*@@zU2|5J*+dyH<$aq{9%RE
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$376
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "u<|F^4#Os*@@zU2|5J*+dyH<$aq{9%RE",
+            "exp": 1624593599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+u<|F^4#Os*@@zU2|5J*+dyH<$aq{9%RE
+*3
+$3
+set
+$39
+device:h+gDve#KV@jX2&QQ<O4vW_T@@oGRk&UJ
+$2112
+{
+    "uhtneohtnfd": {
+        "name": "Front lamp",
+        "description": "Push button lamp",
+        "location": "front door",
+        "state": "off",
+        "active": false,
+        "tags": "lights",
+        "device_type": "lights",
+        "id": "uhtneohtnfd",
+        "image_name": "lightbulb",
+        "image_format": "png",
+        "button_action": "toggle_light"
+    },
+    "uhtneohtnfdas": {
+        "name": "Door Bolt",
+        "description": "Twistable door bolt that controls lock",
+        "location": "front door",
+        "state": "locked",
+        "active": false,
+        "tags": "locks",
+        "device_type": "locks",
+        "id": "uhtneohtnfdas",
+        "image_name": "bolt_lock",
+        "image_format": "png",
+        "button_action": "twist_lock"
+    },
+    "uhtneohtnag": {
+        "name": "Air conditioning",
+        "description": "Air conditioning unit",
+        "location": "front door",
+        "state": "on",
+        "active": true,
+        "tags": "temperature",
+        "device_type": "temperature",
+        "data": {
+            "temperature": 66,
+            "mode": "heat",
+            "fan": "auto"
+        },
+        "id": "uhtneohtnag",
+        "image_name": "air_conditioner",
+        "image_format": "png",
+        "button_action": "set_air_conditioning"
+    },
+    "uhtneueoaht": {
+        "name": "LEDs",
+        "description": "Room bockdrop LEDs",
+        "location": "bedroom",
+        "state": "off",
+        "active": false,
+        "tags": "rgblights",
+        "device_type": "rgblights",
+        "data": {
+            "red": 0,
+            "green": 0,
+            "blue": 0
+        },
+        "id": "uhtneueoaht",
+        "image_name": "LED",
+        "image_format": "png",
+        "button_action": "toggle_leds"
+    },
+    "ygpcrl.,rcg": {
+        "name": "Humidity Sensor",
+        "location": "bedroom",
+        "tags": "humidity",
+        "device_type": "humidity",
+        "passive": true,
+        "data": {
+            "humidity": 75
+        },
+        "id": "ygpcrl.,rcg",
+        "image_name": "humidity_sensor",
+        "image_format": "png"
+    }
+}
+*2
+$3
+del
+$39
+device:h+gDve#KV@jX2&QQ<O4vW_T@@oGRk&UJ
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$39
+device:.YtK`!w9PY33{;2Ko?ES8;7<L1>m]x}|
+$495
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": ".YtK`!w9PY33{;2Ko?ES8;7<L1>m]x}|",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": ".YtK`!w9PY33{;2Ko?ES8;7<L1>m]x}|"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$36
+[".YtK`!w9PY33{;2Ko?ES8;7<L1>m]x}|"]
+*3
+$3
+set
+$39
+device:.YtK`!w9PY33{;2Ko?ES8;7<L1>m]x}|
+$2112
+{
+    "uhtneohtnfd": {
+        "name": "Front lamp",
+        "description": "Push button lamp",
+        "location": "front door",
+        "state": "off",
+        "active": false,
+        "tags": "lights",
+        "device_type": "lights",
+        "id": "uhtneohtnfd",
+        "image_name": "lightbulb",
+        "image_format": "png",
+        "button_action": "toggle_light"
+    },
+    "uhtneohtnfdas": {
+        "name": "Door Bolt",
+        "description": "Twistable door bolt that controls lock",
+        "location": "front door",
+        "state": "locked",
+        "active": false,
+        "tags": "locks",
+        "device_type": "locks",
+        "id": "uhtneohtnfdas",
+        "image_name": "bolt_lock",
+        "image_format": "png",
+        "button_action": "twist_lock"
+    },
+    "uhtneohtnag": {
+        "name": "Air conditioning",
+        "description": "Air conditioning unit",
+        "location": "front door",
+        "state": "on",
+        "active": true,
+        "tags": "temperature",
+        "device_type": "temperature",
+        "data": {
+            "temperature": 65,
+            "mode": "heat",
+            "fan": "auto"
+        },
+        "id": "uhtneohtnag",
+        "image_name": "air_conditioner",
+        "image_format": "png",
+        "button_action": "set_air_conditioning"
+    },
+    "uhtneueoaht": {
+        "name": "LEDs",
+        "description": "Room bockdrop LEDs",
+        "location": "bedroom",
+        "state": "off",
+        "active": false,
+        "tags": "rgblights",
+        "device_type": "rgblights",
+        "data": {
+            "red": 0,
+            "green": 0,
+            "blue": 0
+        },
+        "id": "uhtneueoaht",
+        "image_name": "LED",
+        "image_format": "png",
+        "button_action": "toggle_leds"
+    },
+    "ygpcrl.,rcg": {
+        "name": "Humidity Sensor",
+        "location": "bedroom",
+        "tags": "humidity",
+        "device_type": "humidity",
+        "passive": true,
+        "data": {
+            "humidity": 40
+        },
+        "id": "ygpcrl.,rcg",
+        "image_name": "humidity_sensor",
+        "image_format": "png"
+    }
+}
+*2
+$3
+del
+$39
+device:.YtK`!w9PY33{;2Ko?ES8;7<L1>m]x}|
+*2
+$3
+del
+$10
+device_ids
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$495
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$10
+device_ids
+$36
+["5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"]
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$495
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 131,
+            "green": 52,
+            "blue": 52
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 131,
+            "green": 52,
+            "blue": 52
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 131,
+            "green": 52,
+            "blue": 52
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 131,
+            "green": 52,
+            "blue": 52
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 131,
+            "green": 52,
+            "blue": 52
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 131,
+            "green": 52,
+            "blue": 52
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 131,
+            "green": 52,
+            "blue": 52
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 100,
+            "green": 23,
+            "blue": 23
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 23,
+            "green": 100,
+            "blue": 62
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$495
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 110,
+            "green": 185,
+            "blue": 149
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$495
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 110,
+            "green": 185,
+            "blue": 149
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$495
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 110,
+            "green": 185,
+            "blue": 149
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$492
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 19,
+            "green": 88,
+            "blue": 55
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$492
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 88,
+            "green": 66,
+            "blue": 19
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$38
+token:/*<j+BcMi&JRsv~8X'%hN})Mt7.=yXhr
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$376
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "/*<j+BcMi&JRsv~8X'%hN})Mt7.=yXhr",
+            "exp": 1624766399999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+/*<j+BcMi&JRsv~8X'%hN})Mt7.=yXhr
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$492
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 88,
+            "green": 66,
+            "blue": 19
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 104,
+            "green": 93,
+            "blue": 69
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$494
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 214,
+            "green": 171,
+            "blue": 76
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$38
+token:4f39*a7m>@^ssOXZacpK2LraM{54cM0u
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$376
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "4f39*a7m>@^ssOXZacpK2LraM{54cM0u",
+            "exp": 1624766399999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+4f39*a7m>@^ssOXZacpK2LraM{54cM0u
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$494
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 214,
+            "green": 171,
+            "blue": 76
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$489
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 0,
+            "green": 0,
+            "blue": 0
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$38
+token:$`;mI"Ec#gkJyvK/jHlIqPL#U[36xP]%
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$377
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "$`;mI\"Ec#gkJyvK/jHlIqPL#U[36xP]%",
+            "exp": 1625889599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+$`;mI"Ec#gkJyvK/jHlIqPL#U[36xP]%
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$489
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 0,
+            "green": 0,
+            "blue": 0
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$491
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 0,
+            "blue": 0
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$491
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 0,
+            "blue": 0
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$491
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 0,
+            "blue": 0
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 0
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 0
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$38
+token:ey,Yq0>BCLr7K7s,XO[p|{-pPuRM#!]>
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$376
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "ey,Yq0>BCLr7K7s,XO[p|{-pPuRM#!]>",
+            "exp": 1625975999999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+ey,Yq0>BCLr7K7s,XO[p|{-pPuRM#!]>
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 255,
+            "green": 255,
+            "blue": 0
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 0,
+            "green": 255,
+            "blue": 255
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 0,
+            "green": 255,
+            "blue": 255
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 0,
+            "green": 255,
+            "blue": 255
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$38
+token:UD@iO_Hk5SXg.AG;|%-I$>(S9k{Yoh_p
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$376
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "UD@iO_Hk5SXg.AG;|%-I$>(S9k{Yoh_p",
+            "exp": 1626148799999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+UD@iO_Hk5SXg.AG;|%-I$>(S9k{Yoh_p
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 0,
+            "green": 255,
+            "blue": 255
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 0,
+            "green": 255,
+            "blue": 255
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 0,
+            "green": 255,
+            "blue": 255
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 0,
+            "green": 255,
+            "blue": 255
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$494
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 73,
+            "green": 156,
+            "blue": 156
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$494
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 73,
+            "green": 156,
+            "blue": 156
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$494
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 73,
+            "green": 156,
+            "blue": 156
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$494
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 73,
+            "green": 156,
+            "blue": 140
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$494
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 73,
+            "green": 156,
+            "blue": 135
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$494
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 73,
+            "green": 156,
+            "blue": 129
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$494
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 73,
+            "green": 156,
+            "blue": 124
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$494
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 73,
+            "green": 156,
+            "blue": 113
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$38
+token:{NaLwS.MJRzHWP7.WHA{bwAcZ".>hXE8
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$377
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "{NaLwS.MJRzHWP7.WHA{bwAcZ\".>hXE8",
+            "exp": 1626235199999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+{NaLwS.MJRzHWP7.WHA{bwAcZ".>hXE8
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$494
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 73,
+            "green": 156,
+            "blue": 113
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$38
+token:Av[oN>Wf&Q#evZc1AOxesckytDn}Vj=z
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$376
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "Av[oN>Wf&Q#evZc1AOxesckytDn}Vj=z",
+            "exp": 1626321599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+Av[oN>Wf&Q#evZc1AOxesckytDn}Vj=z
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$494
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 73,
+            "green": 156,
+            "blue": 113
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 28,
+            "green": 130,
+            "blue": 77
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 28,
+            "green": 130,
+            "blue": 77
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 45,
+            "green": 28,
+            "blue": 130
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 45,
+            "green": 28,
+            "blue": 130
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 45,
+            "green": 28,
+            "blue": 130
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$492
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 45,
+            "green": 36,
+            "blue": 91
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$492
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 26,
+            "green": 13,
+            "blue": 89
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+$493
+{
+    "owner_id": "LbB`btliQ;+XzD?[",
+    "project_name": "pn",
+    "project_location": "pl",
+    "ssh_port": "6013",
+    "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E",
+    "device": {
+        "name": "dn",
+        "location": "dl",
+        "device_type": "rgblights",
+        "data": {
+            "red": 48,
+            "green": 20,
+            "blue": 189
+        },
+        "image_name": "LED",
+        "image_type": "png",
+        "device_id": "5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E"
+    }
+}
+*3
+$3
+set
+$38
+token:Cf}9cn"+h|zi.Nv|v%\DoHSw~ZFYh\j.
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$379
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "Cf}9cn\"+h|zi.Nv|v%\\DoHSw~ZFYh\\j.",
+            "exp": 1626321599999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+Cf}9cn"+h|zi.Nv|v%\DoHSw~ZFYh\j.
+*2
+$6
+SELECT
+$1
+0
+*3
+$3
+set
+$38
+token:,YT2a&)/a/!lj]_?o<f7QHg@%nb=BBA?
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$376
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": ",YT2a&)/a/!lj]_?o<f7QHg@%nb=BBA?",
+            "exp": 1626407999999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+,YT2a&)/a/!lj]_?o<f7QHg@%nb=BBA?
+*3
+$3
+set
+$38
+token:rISQb|\{)u_USki)l}-6rq0H`Yih1!S&
+$16
+LbB`btliQ;+XzD?[
+*3
+$3
+set
+$21
+user:LbB`btliQ;+XzD?[
+$377
+{
+    "creationTime": 1623786652028,
+    "ips": [
+        "::ffff:127.0.0.1"
+    ],
+    "lastLogin": -1,
+    "remote_servers": [],
+    "tokens": [
+        {
+            "token": "rISQb|\\{)u_USki)l}-6rq0H`Yih1!S&",
+            "exp": 1626407999999
+        }
+    ],
+    "device_ids": [],
+    "remote_server_access_list": [],
+    "first_name": "Admin",
+    "last_name": "Admin"
+}
+*3
+$3
+set
+$12
+master_token
+$32
+rISQb|\{)u_USki)l}-6rq0H`Yih1!S&
+*2
+$6
+SELECT
+$1
+0
+*2
+$3
+del
+$38
+token:Y!7WTcQ=`8gg>mzQ+c"uge|u_<"C<1en
+*2
+$3
+del
+$38
+token:Av[oN>Wf&Q#evZc1AOxesckytDn}Vj=z
+*2
+$3
+del
+$38
+token:l+8]SMW.&fS3,@B%~\dp^,us+^SW5R'+
+*2
+$3
+del
+$38
+token:rISQb|\{)u_USki)l}-6rq0H`Yih1!S&
+*2
+$3
+del
+$38
+token:Y1Xr`wihlH&iorQrw''#g.z7_-NR[B/v
+*2
+$3
+del
+$38
+token:&[(A;%(4cl<vrr~9;l0I-@TZ&h"4Z[Zt
+*2
+$3
+del
+$38
+token:N%e-'^A~b`5QkvF{0~l2Z6Nrg=SkRpDE
+*2
+$3
+del
+$38
+token:gnhrjUS2{&P#017"^sy_za#MhP.RR}C-
+*2
+$3
+del
+$38
+token:Cf}9cn"+h|zi.Nv|v%\DoHSw~ZFYh\j.
+*2
+$3
+del
+$38
+token:{NaLwS.MJRzHWP7.WHA{bwAcZ".>hXE8
+*2
+$3
+del
+$38
+token:8653djMW~f3}N38GtaG|JXu)GmGyP"pF
+*2
+$3
+del
+$38
+token:UD@iO_Hk5SXg.AG;|%-I$>(S9k{Yoh_p
+*2
+$3
+del
+$38
+token:Y2=(!K?$M9C0|rv7hDSTW<#p7vZ6d^fO
+*2
+$3
+del
+$38
+token:$`;mI"Ec#gkJyvK/jHlIqPL#U[36xP]%
+*2
+$3
+del
+$38
+token:^jn%'Y`N)J8zz,4XBeW+F`qR\_~qGb#Y
+*2
+$3
+del
+$38
+token:(-w_Ie#75x*VB#VYp+w!b=y-CpLQJ{/<
+*2
+$3
+del
+$38
+token:^H=@on}@joo$DL$J[b)_b-JUk2?%&Q,N
+*2
+$3
+del
+$38
+token:>MarQXab2>1@edOcesasG2+lV{^D1>{9
+*2
+$3
+del
+$38
+token:ey,Yq0>BCLr7K7s,XO[p|{-pPuRM#!]>
+*2
+$3
+del
+$38
+token:YG)[}?Bh<I^khTcd{LsE}v&o1QWG=[>D
+*2
+$3
+del
+$38
+token:/*<j+BcMi&JRsv~8X'%hN})Mt7.=yXhr
+*2
+$3
+del
+$38
+token:4f39*a7m>@^ssOXZacpK2LraM{54cM0u
+*2
+$3
+del
+$38
+token:u<|F^4#Os*@@zU2|5J*+dyH<$aq{9%RE
+*2
+$3
+del
+$38
+token:,YT2a&)/a/!lj]_?o<f7QHg@%nb=BBA?
+*2
+$3
+del
+$39
+device:5[IzWz?IK!f[F`o>x!9bWt]@<{CzI{*E
+*2
+$3
+del
+$10
+device_ids
+*2
+$3
+del
+$12
+master_token
+*2
+$3
+del
+$14
+password:12345
+*2
+$3
+del
+$21
+user:LbB`btliQ;+XzD?[
+*2
+$3
+del
+$8
+user_ids

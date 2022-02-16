@@ -1,0 +1,23 @@
+{
+  "name": "remote",
+  "version": "0.1.0",
+  "scripts": {
+    "client": "cd client && npm start",
+    "server": "cd server && nodemon backend.js",
+    "database": "redis-server server/redis.conf 2>&1",
+    "redis-gui": "./node_modules/redis-commander/bin/redis-commander.js --redis-port 6012 2>&1",
+    "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\" \"npm run database\" \"npm run redis-gui\"",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.16.4",
+    "node-cron": "^3.0.0",
+    "redis-commander": "^0.7.0",
+    "ws": "^7.5.3"
+  },
+  "devDependencies": {
+    "concurrently": "^6.2.0"
+  }
+}

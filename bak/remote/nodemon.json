@@ -1,0 +1,8 @@
+{
+	{
+		"events": {
+			"restart": "lsof -i :6011 -t | xargs kill",
+			"crash": "lsof -i :6011 -t | xargs kill"
+		}
+	}
+}

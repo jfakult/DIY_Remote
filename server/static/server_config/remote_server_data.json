@@ -1,0 +1,30 @@
+[
+    {
+        "name": "JakesTemp",
+        "location": "JakesHouse",
+        "device_type": "temperature",
+        "data": {
+            "temperature": 69,
+            "mode": "auto",
+            "fan": "auto"
+        },
+        "image_name": "air_conditioner",
+        "image_type": "png",
+        "device_id": "et&O'Yj.%sAHPw$-de.76{@X``hbfEZY",
+        "device_secret_key": "SVCe8F\\5MJ${bPJx$)4O4@OURdiw{_^o",
+        "owner_id": "?9CRQtx\\VPWn=eiL}yWs%J6V^b#@z<*a"
+    },
+    {
+        "name": "JakesBlinds",
+        "location": "JakesHouse",
+        "device_type": "motors",
+        "data": {
+            "speed": 0
+        },
+        "image_name": "motor",
+        "image_type": "svg",
+        "device_id": "|ZL]4{nB4~ZNwDs&\\xAO(]c[Qzk3E<Th",
+        "device_secret_key": "T&+QC!b/d}/@@1S/D6vuDrKapjFT_MyD",
+        "owner_id": "?9CRQtx\\VPWn=eiL}yWs%J6V^b#@z<*a"
+    }
+]
